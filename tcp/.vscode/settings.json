@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "wifistation_task.h": "c",
+        "task_handle.h": "c"
+    }
+}
